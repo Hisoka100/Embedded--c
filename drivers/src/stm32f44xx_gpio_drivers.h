@@ -1,0 +1,5 @@
+#ifndef SRC_STM32F44XX_GPIO_DRIVERS_H_
+#define SRC_STM32F44XX_GPIO_DRIVERS_H_
+#include "stm32f446xx.h"
+
+#endif /* SRC_STM32F44XX_GPIO_DRIVERS_H_ */
